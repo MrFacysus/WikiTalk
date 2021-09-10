@@ -1,0 +1,7 @@
+D:\Programming\WikiTalk\WikiTalk\WikiTalk\bin\Release\WikiTalk.exe.config
+D:\Programming\WikiTalk\WikiTalk\WikiTalk\bin\Release\WikiTalk.exe
+D:\Programming\WikiTalk\WikiTalk\WikiTalk\bin\Release\WikiTalk.pdb
+D:\Programming\WikiTalk\WikiTalk\WikiTalk\obj\Release\WikiTalk.csprojAssemblyReference.cache
+D:\Programming\WikiTalk\WikiTalk\WikiTalk\obj\Release\WikiTalk.csproj.CoreCompileInputs.cache
+D:\Programming\WikiTalk\WikiTalk\WikiTalk\obj\Release\WikiTalk.exe
+D:\Programming\WikiTalk\WikiTalk\WikiTalk\obj\Release\WikiTalk.pdb
